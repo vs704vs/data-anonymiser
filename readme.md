@@ -1,6 +1,6 @@
 # 🚀 Data Anonymizer
 
-- A full-stack, privacy-first data anonymization platform with secure file uploads, encryption-decryption, DL Model, and analytics.Built with Express.js, MongoDB, S3, React, Zustand, and Bootstrap.
+- A full-stack, privacy-first data anonymization platform with secure file uploads, encryption-decryption, DL Model, and analytics. Built with Express.js, MongoDB, S3, React, Zustand, and Bootstrap.
 - Detects and encrypts/decrypts Personally Identifiable Information (PII) in .parquet, .csv, .xlsx, and .xlsm files.
 
 ---
